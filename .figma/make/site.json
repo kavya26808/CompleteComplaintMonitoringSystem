@@ -1,0 +1,11 @@
+{
+  "title": "AICTE Smart Complaint Monitoring System",
+  "description": "Streamline the complaint management process for AICTE by enabling users to submit, track, and resolve grievances efficiently through a role-based dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
